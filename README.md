@@ -59,16 +59,10 @@
 <h2 align="center"><b>My GitHub Stats</b></h2>
 
 <p align="center">
-    <table align="center">
-        <tr border="none">
-        <td width="50%" align="center">
-            <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=DilshanGDT&theme=dark&show_icons=true&count_private=true" />
-            <br>
-            <br>
-            <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=DilshanGDT&theme=dark&hide_border=false" /> 
-        </td>
-        </tr>
-    </table>
+    <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=DilshanGDT&theme=dark&show_icons=true&count_private=true" />
+    <br>
+    <br>
+    <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=DilshanGDT&theme=dark&hide_border=false" />
 </p>
 
 <br>
