@@ -42,3 +42,35 @@
         <img src="https://skillicons.dev/icons?i=codepen,eclipse,idea,pycharm,vscode" />
     </a>
 </p>
+<br>
+
+<!-- Contacts -->
+<h3 align="center">Let's Connect...🤝</h3>
+<div align='center'>
+    <a href="https://linkedin.com/in/gdtdilshan" target="_blank">
+        <img src="https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+    </a>
+    <a target="_blank" href="mailto:gdtdilshan@gmail.com">
+        <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt=gmail style="margin-bottom: 5px;"/>
+    </a>
+</div>
+
+<!--- Stats -->
+<h2 align="center"><b>My GitHub Stats</b></h2>
+
+<p align="center">
+    <table align="center">
+        <tr border="none">
+        <td width="50%" align="center">
+            <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=DilshanGDT&theme=dark&show_icons=true&count_private=true" />
+            <br>
+            <br>
+            <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=DilshanGDT&theme=dark&hide_border=false" /> 
+        </td>
+        </tr>
+    </table>
+</p>
+
+<br>
+<!-- Slogan -->
+<p align="center"><i>Sky is the limit :)</i></p>
