@@ -55,6 +55,7 @@
     </a>
 </div>
 
+<br>
 <!--- Stats -->
 <h2 align="center"><b>My GitHub Stats</b></h2>
 
@@ -68,3 +69,6 @@
 <br>
 <!-- Slogan -->
 <p align="center"><i>Sky is the limit :)</i></p>
+
+<!-- Gradient Divider -->
+<p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></p>
