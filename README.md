@@ -68,4 +68,4 @@
 
 <br>
 <!-- Slogan -->
-<p align="center"><i>Sky is the limit :)</i></p>
+<p align="center"><i>Sky is the limit</i></p>
