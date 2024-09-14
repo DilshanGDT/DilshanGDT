@@ -10,7 +10,7 @@
 <!-- Summary -->
 <div class="markdown-heading" dir="auto">
     <h3 align="center" class="heading-element" dir="auto">I'm currently studying at the University of Peradeniya 
-    <br>seeking an honors degree in computer science, working to develop into a top notch
+    <br>seeking an honors degree in computer science, working to develop into a top-notch
     <br> 
     <span>Full Stack Developer</span>.
 </div>
