@@ -37,10 +37,6 @@
     </a>
     <br>
     <br>
-    <!-- IDEs -->
-    <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=codepen,eclipse,idea,pycharm,vscode" />
-    </a>
 </p>
 <br>
 
