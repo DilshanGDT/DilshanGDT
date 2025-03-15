@@ -21,19 +21,19 @@
 <p align="center">
     <!-- Languages -->
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=c,py,java,js,ts,html,css,r" />
+        <img src="https://skillicons.dev/icons?i=c,py,java,js,ts,html,css" />
     </a>
     <br>
     <br>
     <!-- Web Development -->
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=nodejs,nestjs,react,next,bootstrap,figma,mysql,postman,tailwind" />
+        <img src="https://skillicons.dev/icons?i=nodejs,nestjs,react,next,figma,mysql,postman,tailwind" />
     </a>
     <br>
     <br>
     <!-- Others -->
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=autocad,aws,git,github,opencv,ps" />
+        <img src="https://skillicons.dev/icons?i=aws,git,opencv" />
     </a>
     <br>
     <br>
