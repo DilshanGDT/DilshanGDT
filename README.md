@@ -9,8 +9,8 @@
 
 <!-- Summary -->
 <div class="markdown-heading" dir="auto">
-    <h3 align="center" class="heading-element" dir="auto">I'm currently studying at the University of Peradeniya 
-    <br>seeking an honors degree in computer science, working to develop into a top-notch
+    <h3 align="center" class="heading-element" dir="auto">I'm a Computer Science Honors Graduate @ University of Peradeniya,
+    <br>Working to develop into a top-notch
     <br> 
     <span>Full Stack Developer</span>.
 </div>
@@ -21,19 +21,25 @@
 <p align="center">
     <!-- Languages -->
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=c,py,java,js,ts,html,css" />
+        <img src="https://skillicons.dev/icons?i=c,py,java,cs,cpp,go,js,ts,dart,html,css" />
     </a>
     <br>
     <br>
     <!-- Web Development -->
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=nodejs,nestjs,react,next,figma,mysql,postman,tailwind" />
+        <img src="https://skillicons.dev/icons?i=nodejs,nestjs,react,next,figma,mysql,postgres,tailwind,spring,selenium" />
+    </a>
+    <br>
+    <br>
+    <!-- Frameworks -->
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=aws,dotnet,laravel,git,bitbucket,postman,opencv,autocad" />
     </a>
     <br>
     <br>
     <!-- Others -->
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=aws,git,opencv" />
+        <img src="https://skillicons.dev/icons?i=vscode,eclipse,visualstudio,arduino,androidstudio" />
     </a>
     <br>
     <br>
